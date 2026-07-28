@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amyseth
 - 👀 I’m interested in ...Coding and Playing
-- 🌱 I’m currently learning ...Java and Python
+- 🌱 I’m currently learning ... Generative ai
 - 💞️ I’m looking to collaborate on ...Software Developing Backend
 - 📫 How to reach me ...aseth230@gmail.com
 - 😄 Pronouns: ...Amy

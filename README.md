@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Amyseth
-- 👀 I’m interested in ...Coding and Playing
-- 🌱 I’m currently learning ... Generative ai
-- 💞️ I’m looking to collaborate on ...Software Developing Backend
-- 📫 How to reach me ...aseth230@gmail.com
-- 😄 Pronouns: ...Amy
-- ⚡ Fun fact: ...I'm hardcore Gamer
+# Hi, I'm Amit Seth 👋
 
-<!---
-Amyseth/Amyseth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### AI Full-Stack Developer & Solutions Architect
+
+I specialize in bridging the gap between traditional software engineering and autonomous AI systems. My core focus is on building **Agentic AI Workflows**, **RAG Pipelines**, and production-ready enterprise SaaS platforms.
+
+## 🚀 What I Build
+*   **Agentic AI Systems:** Next.js & Python platforms utilizing the Google GenAI SDK and OpenAI APIs to autonomously execute complex business logic.
+*   **Machine Learning (RL):** Developing Reinforcement Learning algorithms (Contextual Bandits) for autonomous optimization in generative marketing (OptiMail).
+*   **Enterprise SaaS & ERP:** Architecting offline-first, scalable backend solutions using Python, FastAPI, and Next.js.
+
+## 🛠️ Tech Stack
+*   **AI & LLMs:** Prompt Engineering, RAG Pipelines, Google Gemini API, LangChain
+*   **Frontend:** Next.js (App Router), React, Tailwind CSS
+*   **Backend:** Python, FastAPI, Node.js, SQLite, Supabase
+*   **Deployment:** Docker, Vercel
+
+📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/amit-seth-dev) | ✉️ aseth230@gmail.com

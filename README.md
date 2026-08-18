@@ -1,18 +1,23 @@
-# Hi, I'm Amit Seth 👋
+About
 
-### AI Full-Stack Developer & Solutions Architect
+AI Application Engineer building practical AI systems that connect LLMs with data, APIs and business workflows.
 
-I specialize in bridging the gap between traditional software engineering and autonomous AI systems. My core focus is on building **Agentic AI Workflows**, **RAG Pipelines**, and production-ready enterprise SaaS platforms.
+Focus
+Generative AI
+RAG
+AI Agents
+Python/FastAPI
+SQL
+Next.js
+AI automation
+Featured work
 
-## 🚀 What I Build
-*   **Agentic AI Systems:** Next.js & Python platforms utilizing the Google GenAI SDK and OpenAI APIs to autonomously execute complex business logic.
-*   **Machine Learning (RL):** Developing Reinforcement Learning algorithms (Contextual Bandits) for autonomous optimization in generative marketing (OptiMail).
-*   **Enterprise SaaS & ERP:** Architecting offline-first, scalable backend solutions using Python, FastAPI, and Next.js.
+Three or four projects.
 
-## 🛠️ Tech Stack
-*   **AI & LLMs:** Prompt Engineering, RAG Pipelines, Google Gemini API, LangChain
-*   **Frontend:** Next.js (App Router), React, Tailwind CSS
-*   **Backend:** Python, FastAPI, Node.js, SQLite, Supabase
-*   **Deployment:** Docker, Vercel
+Open source
 
-📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/amit-seth-dev) | ✉️ aseth230@gmail.com
+OpenLLMetry contribution.
+
+Contact
+
+LinkedIn + portfolio.
